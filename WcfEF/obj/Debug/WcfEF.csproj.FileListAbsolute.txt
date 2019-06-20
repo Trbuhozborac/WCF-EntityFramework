@@ -1,0 +1,7 @@
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\WcfEF.dll.config
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\WcfEF.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\WcfEF.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.csprojAssemblyReference.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.csproj.CoreCompileInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.pdb
