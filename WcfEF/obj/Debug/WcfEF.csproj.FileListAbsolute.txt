@@ -5,3 +5,8 @@ C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.cs
 C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.csproj.CoreCompileInputs.cache
 C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.dll
 C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\EntityFramework.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\EntityFramework.SqlServer.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\EntityFramework.xml
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\bin\EntityFramework.SqlServer.xml
+C:\Users\I7\Documents\Visual Studio 2017\Projects\WcfEF\WcfEF\obj\Debug\WcfEF.csproj.CopyComplete

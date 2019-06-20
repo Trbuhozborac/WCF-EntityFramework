@@ -14,22 +14,40 @@ namespace WcfEF
     {
         public void DeletePerson(int id)
         {
-            throw new NotImplementedException();
+            PersonContext po = new PersonContext();
+            var c = (from per in po.Persons
+                     where per.Id == id
+                     select per).First();
+
+            po.Persons.Remove(c);
+            po.SaveChanges();
+                     
         }
 
         public IEnumerable<Person> GetPerson()
         {
-            throw new NotImplementedException();
+            List<Person> li = new List<Person>();
+            PersonContext po = new PersonContext();
+            return li;
         }
 
         public void InsertPerson(Person pobj)
         {
-            throw new NotImplementedException();
+            PersonContext po = new PersonContext();
+            po.Persons.Add(pobj);
+            po.SaveChanges();
         }
 
         public void UpdatePerson(Person pobj)
         {
-            throw new NotImplementedException();
+            PersonContext po = new PersonContext();
+            var c = (from per in po.Persons
+                     where per.Id == pobj.Id
+                     select per).First();
+
+            c.Name = pobj.Name;
+            c.Address = pobj.Address;
+            po.SaveChanges();
         }
     }
 }
